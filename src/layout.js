@@ -206,6 +206,7 @@ export function layout({ title, description, body }) {
 ${body}
   </div>
   ${footer()}
+  <button class="fab-top" data-to-top aria-label="Back to top">${icon('arrowUp')}</button>
   <div class="toast" data-toast role="status" aria-live="polite"></div>
   <script src="/js/main.js" defer></script>
 </body>

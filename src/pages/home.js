@@ -44,6 +44,10 @@ export default function home() {
     </div>
   </section>
 
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track"><span>Precision Spraying</span><i>${icon('sparkle')}</i><span>Crop Mapping</span><i>${icon('sparkle')}</i><span>Smart Planting</span><i>${icon('sparkle')}</i><span>Field Scouting</span><i>${icon('sparkle')}</i><span>Variable-Rate Application</span><i>${icon('sparkle')}</i><span>Pilot Training</span><i>${icon('sparkle')}</i><span>24/7 Support</span><i>${icon('sparkle')}</i><span>Precision Spraying</span><i>${icon('sparkle')}</i><span>Crop Mapping</span><i>${icon('sparkle')}</i><span>Smart Planting</span><i>${icon('sparkle')}</i><span>Field Scouting</span><i>${icon('sparkle')}</i><span>Variable-Rate Application</span><i>${icon('sparkle')}</i><span>Pilot Training</span><i>${icon('sparkle')}</i><span>24/7 Support</span><i>${icon('sparkle')}</i></div>
+  </div>
+
   <section class="section container">
     <div class="section-head split">
       <h2 class="display">
